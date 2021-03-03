@@ -1,1 +1,0 @@
-![yeeeet](https://github.com/wiardvanrij/kubernetjes/workflows/yeeeet/badge.svg)
